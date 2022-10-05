@@ -1,7 +1,4 @@
-Projeto Borboleta
-* Dba – Administradores de banco de dados
-* FullStack – Desenvolvedores sênior 
+Projeto Borboleta backend
+
+
 * BackEnd – Desenvolvedores júnior e pleno 
-* FrontEnd – Desenvolvedores júnior e pleno 
-* Tester – Equipe de testes e qualidade de software 
-* Produção   
