@@ -1,3 +1,0 @@
-Projeto Borboleta produção
-
-* Produção
